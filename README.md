@@ -3,6 +3,9 @@ A Serverless PaaS Server written in NodeJS - Mainllayer of the DIREKTSPEED Serve
 
 No Matter if you want to run Serverless Functions or Offer a Uniq Interface for your PaaS Applications PaaS Server gets you up and Running in No Time.
 
+It even circumvents all the downsides that are mentoined here https://serverless.com/blog/when-why-not-use-serverless/
+as we give you this visibility.
+
 It is easy Extend and Adjust Able to Serve as Entry Point or event emitter to all your PaaS Applications 
 
 ## Install
